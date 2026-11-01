@@ -1,0 +1,17 @@
+# Vivado generated folders
+.Xil/
+*.cache/
+*.runs/
+*.sim/
+*.hw/
+
+# Temporary files
+*.jou
+*.log
+*.str
+*.wdb
+*.vcd
+*.pb
+
+# Simulation generated files
+xsim.dir/
